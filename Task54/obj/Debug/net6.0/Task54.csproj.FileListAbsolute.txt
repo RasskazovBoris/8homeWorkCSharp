@@ -1,0 +1,15 @@
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\bin\Debug\net6.0\Task54.exe
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\bin\Debug\net6.0\Task54.deps.json
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\bin\Debug\net6.0\Task54.dll
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\bin\Debug\net6.0\Task54.pdb
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.dll
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\refint\Task54.dll
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.pdb
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+C:\Users\Boris\Desktop\GeekBrains\Seminars\3. С#\8 Seminar\HomeWork\Task54\obj\Debug\net6.0\ref\Task54.dll
